@@ -1,0 +1,15 @@
+D:\C#\MatrixPattern\bin\Debug\netcoreapp3.1\MatrixPattern.exe
+D:\C#\MatrixPattern\bin\Debug\netcoreapp3.1\MatrixPattern.deps.json
+D:\C#\MatrixPattern\bin\Debug\netcoreapp3.1\MatrixPattern.runtimeconfig.json
+D:\C#\MatrixPattern\bin\Debug\netcoreapp3.1\MatrixPattern.runtimeconfig.dev.json
+D:\C#\MatrixPattern\bin\Debug\netcoreapp3.1\MatrixPattern.dll
+D:\C#\MatrixPattern\bin\Debug\netcoreapp3.1\MatrixPattern.pdb
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.csprojAssemblyReference.cache
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.csproj.GenerateResource.cache
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.AssemblyInfoInputs.cache
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.AssemblyInfo.cs
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.csproj.CoreCompileInputs.cache
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.dll
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.pdb
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.genruntimeconfig.cache
+D:\C#\MatrixPattern\obj\Debug\netcoreapp3.1\MatrixPattern.fom.resources
