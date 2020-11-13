@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\silpa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\silpa\\.nuget\\packages"
+    ]
+  }
+}
